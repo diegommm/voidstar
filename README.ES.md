@@ -370,5 +370,3 @@ respecto al otro.
 No existen.
 
 No existen conclusiones ni respuestas.
-
-#vimft: formatoptions=jtcqn textwidth=80
