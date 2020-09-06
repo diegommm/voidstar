@@ -6,7 +6,7 @@
 
 Me dispongo a explicar desde un punto de vista existencialista ciertos
 conceptos básicos de programación y finalizar con una tesis acerca de la
-depresión y el suicidio. No pueda tomarse este texto como nota suicida, es
+depresión y el suicidio. No pueda tomarse este texto como nota suicida, siendo
 demasiado trabajo, pero habiéndolo considerado algunas veces desistí porque
 prefería programar. Que sería algo así como decir que me entusiasmé con la nota
 suicida y la satisfacción de expresar mis sentimientos de forma escrita hizo
@@ -104,7 +104,7 @@ Lo más lógico es que entraría en _pánico_.
 Del mismo modo, intentar desreferenciar un puntero que apunta a una posición de
 memoria donde ya no está guardado algo que esperaría encontrar (como un relojero
 en la analogía) provoca que algunos lenguajes de programación o sistemas
-operativos entraren en _pánico_ debido a que esa memoria está _corrupta_. Las
+operativos entren en _pánico_ debido a que esa memoria está _corrupta_. Las
 palabras resaltadas son literalmente las utilizadass en programación para estas
 condiciones.
 
@@ -342,6 +342,8 @@ un _puntero a void_ que apunte a alguna de aquellas entidades.
 Y es en esta asfixia cosmogónica autoritaria de _void_ que uno podría decir con
 toda justicia (si tal cosa existe o no existe, sea como fuere):
 
+```life
     Déjenme no ser.
+```
 
 #vimft: formatoptions=jtcqn textwidth=80
