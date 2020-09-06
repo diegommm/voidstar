@@ -325,7 +325,7 @@ papel donde estén leyendo para argüir en contra y, al mismo tiempo, a favor de
 lo que fuera a decir. Y esto debería quitarles el sueño, se los advierto.
 
 El ejemplo que tomaré es del lenguaje de programación llamado, a secas, "C": un
-punterpo a _void_ es un puntero a cualquier cosa.
+puntero a _void_ es un puntero a cualquier cosa.
 
 Espero el cuestionamiento...
 
