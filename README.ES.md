@@ -337,7 +337,7 @@ otra. Nadie es especial. Somos todos polvo de estrellas. Como dice un filósofo
 yo pueda _hacer_ o _ser_ para dejar de ser referenciado por un arbitrario
 _puntero a void_. Ni siquiera _dejar de ser_. Porque recuerden que incluso _no
 siendo_, como es el caso de las tarjetas de presentación asesinas, podrá existir
-un _puntero a void_ que apunte a alguna de aquellas entidades.
+un _puntero a void_ incapaz de apuntar a alguna de aquellas entidades.
 
 Y es en esta asfixia cosmogónica autoritaria de _void_ que uno podría decir con
 toda justicia (si tal cosa existe o no existe, sea como fuere):
