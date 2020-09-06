@@ -339,11 +339,36 @@ _puntero a void_. Ni siquiera _dejar de ser_. Porque recuerden que incluso _no
 siendo_, como es el caso de las tarjetas de presentación asesinas, podrá existir
 un _puntero a void_ incapaz de apuntar a alguna de aquellas entidades.
 
-Y es en esta asfixia cosmogónica autoritaria de _void_ que uno podría decir con
-toda justicia (si tal cosa existe o no existe, sea como fuere):
+Y es en esta asfixia cosmogónica autoritaria de _puntero a void_ que uno podría
+decir con toda justicia (si tal cosa existe o no existe, sea como fuere):
 
 ```life
     Déjenme no ser.
 ```
+
+Si son los suficientemente pedantes habrán identificado la palabra _cosmogónica_
+como algo especial entre las anteriores palabras. Igual, si no lo hicieron no
+dejan de ser igualmente especiales que aquellos que pudieran haberlo hecho:
+_puntero a void_ veces más o menos especiales. Adelante, intenten interpretarlo
+como un cero multiplicado por algo que represente una cantidad si pueden,
+aquellos igualmente especiales que también notaron esa minucia.
+
+_void_ no es cero. Mucho menos _puntero a void_ será cero necesariamente (al
+menos, en cada instancia posible de _puntero a void_). Cero es cero. Nada es
+nada y así, todas las demás tautologías innecesarias que se les ocurra hasta
+llegar a pensar: ¿_void_ es _void_? ¿_puntero a void_ es _puntero a void_?
+¿_puntero a void_ puede ser _void_ en sí y vice versa?
+
+La respuesta es: no necesariamente. Depende de la postura filosófica. Busquen en
+vano respuestas en semiótica y teoría de la referencia. Todos tienen razón en
+algún punto y todos se equivocan en otro o en el mismo punto. Muy similar al
+comportamiento de _void_ y _puntero a void_ con respecto a sí mismos y con
+respecto al otro.
+
+## Conclusiones
+
+No existen.
+
+No existen conclusiones ni respuestas.
 
 #vimft: formatoptions=jtcqn textwidth=80
